@@ -7,5 +7,4 @@
   <project path="vendor/sony/aurora" name="proprietary_vendor_sony_aurora" remote="kanonifyx" revision="15" />
   <project path="vendor/sony/tama-common" name="proprietary_vendor_sony_tama-common" remote="kanonifyx" revision="15" />
   <project path="hardware/sony/SonyOpenTelephony" name="android_hardware_sony_SonyOpenTelephony" remote="kanonifyx" revision="15" />
-  <project path="vendor/lineage-priv" name="priv-keys" remote="kanonifyx" revision="main" />
 </manifest>
