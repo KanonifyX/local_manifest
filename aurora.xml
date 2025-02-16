@@ -3,7 +3,7 @@
   
   <project path="device/sony/aurora" name="android_device_sony_aurora" remote="kanonifyx" revision="15" />
   <project path="device/sony/tama-common" name="android_device_sony_tama-common" remote="kanonifyx" revision="15" />
-  <project path="kernel/sony/sdm845" name="android_kernel_tama_sdm845" remote="kanonifyx" revision="lineage" />
+  <project path="kernel/sony/sdm845" name="android_kernel_tama_sdm845" remote="kanonifyx" revision="stardust" />
   <project path="vendor/sony/aurora" name="proprietary_vendor_sony_aurora" remote="kanonifyx" revision="15" />
   <project path="vendor/sony/tama-common" name="proprietary_vendor_sony_tama-common" remote="kanonifyx" revision="15" />
   <project path="hardware/sony/SonyOpenTelephony" name="android_hardware_sony_SonyOpenTelephony" remote="kanonifyx" revision="15" />
